@@ -1,4 +1,4 @@
-My Favourite Meal
+<h1> My Favourite Meal</h1>
 
 Create a recipe project for your favorite meal
 
