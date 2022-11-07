@@ -50,3 +50,9 @@ body {
 .img2 { flex: 1.3345; }
 .img3 { flex: 0.7505; }
 .img4 { flex: 1.5023; }
+footer{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
