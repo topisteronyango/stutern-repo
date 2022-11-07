@@ -1,6 +1,6 @@
 <h1> My Favourite Meal</h1>
 
-Create a recipe project for your favorite meal
+<strong>Create a recipe project for your favorite meal</strong>
 
 The recipe page should have the following:
 
