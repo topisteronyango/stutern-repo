@@ -1,0 +1,26 @@
+#sec1{
+    color: green;
+    font-size: 14px;
+    padding: 12px;
+    margin: 20px;
+    border-style:solid;
+}
+
+#sec2{
+    color: red;
+    font-size: 14px;
+    padding: 12px;
+    margin: 20px;
+    border-style:dotted;
+
+}
+#sec3{
+    color: blue;
+    font-size: 14px;
+    padding: 12px;
+    margin: 20px;
+    border-style: double;
+}
+h1{
+    font-size: 18px;
+}
